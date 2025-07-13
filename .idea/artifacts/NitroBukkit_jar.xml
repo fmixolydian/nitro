@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="NitroBukkit:jar">
+    <output-path>/media/fmixolydian/MIKADO/android/Cadmium20/plugins/</output-path>
+    <root id="archive" name="NitroBukkit.jar">
+      <element id="module-output" name="NitroBukkit" />
+      <element id="module-output" name="NitroCore" />
+    </root>
+  </artifact>
+</component>

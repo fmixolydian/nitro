@@ -1,0 +1,12 @@
+name: NitroBukkit
+version: '${project.version}'
+main: eu.sqrt5.nitro.bukkit.NitroBukkit
+api-version: '1.21'
+authors: [ fmixolydian ]
+description: a scripting language similar to minecraft commands
+website: https://nitro.sqrt5.eu
+commands:
+  nt:
+    description: execute nitro code
+    usage: /nt <code>
+    permission: nitro.execute
